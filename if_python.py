@@ -17,3 +17,12 @@ if (n%2==0) and (n>6 and n<=20):
     print("Weird \n")
 if (n%2==0) and (n>20) :
     print("Not Weird \n")
+
+if n % 2 != 0:
+    print("Weird \n")
+if (n%2==0) and (n>1 and n<=5):
+    print("Not Weird \n")
+if (n%2==0) and (n>6 and n<=20):
+    print("Weird \n")
+if (n%2==0) and (n>20) :
+    print("Not Weird \n")
